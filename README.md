@@ -37,7 +37,6 @@ To ensure clinical utility, high precision, and system stability, the project tr
 
 * `mamba segmentation image 2d.ipynb`: The end-to-end training pipeline, validation logs, and configuration yielding the production-ready 0.945 Dice score.
 * `mamba segmentation image 3d.ipynb`: The optimization notebook containing the Ultimate Push V2.2 training execution logs.
-* `inference_pipeline.py`: A clean, production-ready inference utility designed to bridge the raw model weights with the Supabase cloud backend.
 * `requirements.txt`: Python environment dependencies.
 * `.gitignore`: Built-in rules to protect the repository from committing heavy dataset arrays or model weight files (`.pth`).
 
