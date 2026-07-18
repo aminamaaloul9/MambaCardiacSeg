@@ -1,0 +1,17 @@
+# Model Weights and Trained Checkpoints (Too heavy for GitHub)
+*.pth
+*.pt
+*.onnx
+
+# Medical Imaging Data & Datasets (ACDC Volumes)
+data/
+datasets/
+*.h5
+*.nii
+*.nii.gz
+
+# Python and Jupyter Notebook Temporary Files
+__pycache__/
+.ipynb_checkpoints/
+.virtualenv/
+.DS_Store
